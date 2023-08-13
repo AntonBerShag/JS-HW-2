@@ -1,0 +1,5 @@
+box img, .newDiv img {
+    margin: 15px;
+    width: 350px;
+    align-items: center;
+}
